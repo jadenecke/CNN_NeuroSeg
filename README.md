@@ -4,8 +4,8 @@ Code and data used in publication [Accurate and robust segmentation of neuroanat
 
 * Python 3.6
 * [MINC toolkit](https://bic-mni.github.io/)
-* [pyminc](https://github.com/Mouse-Imaging-Centre/pyminc)
-* [lasagne + theano](https://lasagne.readthedocs.io/en/latest/)
+* [Pyminc](https://github.com/Mouse-Imaging-Centre/pyminc)
+* [Lasagne + Theano](https://lasagne.readthedocs.io/en/latest/)
 
 ## Example code
 
@@ -24,5 +24,4 @@ python apply_cnn.py -te_ima yourTrainingImages.txt -output_dir yourOutputDir -mo
 ```
 
 ## Details
-
-See code comments for further details.
+Images should be intensity-normalized and registered in a common space. Make sure your label images are integer-valued (background should have a value of 0). See paper and code comments for further details.
