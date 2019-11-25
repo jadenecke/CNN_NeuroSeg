@@ -2,7 +2,7 @@ Code and data used in publication [Accurate and robust segmentation of neuroanat
 
 ## Prerequisites
 
-* Python 3.6
+* Tested on Python 3.6.3
 * [MINC toolkit](https://bic-mni.github.io/)
 * [Pyminc](https://github.com/Mouse-Imaging-Centre/pyminc)
 * [Lasagne + Theano](https://lasagne.readthedocs.io/en/latest/)
