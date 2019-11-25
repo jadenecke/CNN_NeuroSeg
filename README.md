@@ -6,6 +6,7 @@ Code and data used in publication [Accurate and robust segmentation of neuroanat
 * [MINC toolkit](https://bic-mni.github.io/)
 * [Pyminc](https://github.com/Mouse-Imaging-Centre/pyminc)
 * [Lasagne + Theano](https://lasagne.readthedocs.io/en/latest/)
+* [Scipy](https://www.scipy.org/install.html)
 
 ## Example code
 
