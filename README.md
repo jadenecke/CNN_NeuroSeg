@@ -30,3 +30,4 @@ Images should be intensity-normalized and registered in a common space. Make sur
 
 #adaption by jadenecke:
 Added scripts and shell wrapper to create masks. Shell wrapper expects a input/brains/*.mnc input/labels/*.mnc structure, similar to the MAGeT algorithm
+Forking: https://gist.github.com/jagregory/710671
