@@ -28,6 +28,6 @@ python apply_cnn.py -te_ima yourTrainingImages.txt -output_dir yourOutputDir -mo
 Images should be intensity-normalized and registered in a common space. Make sure your label images are integer-valued (background should have a value of 0). See paper and code comments for further details.
 
 
-#adaption by jadenecke:
+## adaption by jadenecke:
 Added scripts and shell wrapper to create masks. Shell wrapper expects a input/brains/*.mnc input/labels/*.mnc structure, similar to the MAGeT algorithm
 Forking: https://gist.github.com/jagregory/710671
